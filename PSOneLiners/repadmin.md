@@ -1,7 +1,7 @@
 Not a pwsh, but still worth knowing / using it...
 
 Step 1 - Check the replication health
-Repadmin /replsummary
+```Repadmin /replsummary```
 
 Step 2 - Check the inbound replication requests that are queued.
 Repadmin /Queue
